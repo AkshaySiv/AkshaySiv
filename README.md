@@ -18,41 +18,7 @@ I love sharing insights on DevOps best practices, automation, and cloud-native t
 
 ---
 
-## 📄 **Professional Journey**  
-With 9 years in the industry, I’ve architected CI/CD systems, managed hybrid cloud platforms, and led DevOps transformations for enterprise applications.  
-🔗 View my full résumé: [**Resume**] *(Add a clickable link here)*
-
----
-
 ## 📢 **Get in Touch**  
 ✉️ Email: [akshaysiv95@gmail.com](mailto:akshaysiv95@gmail.com)  
 🔗 LinkedIn: [**Akshay Siv**](https://www.linkedin.com/in/akshay-siv/)  
-
----
-
-## ⚒️ **Tech Stack & Tools**
-
-### ☁️ **Cloud & Infrastructure**  
-- AWS | Azure | GCP  
-
-### 🧰 **DevOps & Automation**  
-- Docker | Kubernetes | Jenkins | Terraform | Ansible | CircleCI | ArgoCD  
-
-### 🧠 **Scripting & Languages**  
-- Bash | Python | YAML  
-
-### 🐧 **Operating Systems**  
-- Linux (RHEL, Ubuntu) | macOS  
-
-### 🗃️ **Databases**  
-- MySQL | PostgreSQL | MongoDB  
-
-### 💻 **Development & Version Control**  
-- Git | GitHub | Bitbucket | Django | JavaScript  
-
----
-
-## 🌍 **Let’s Connect & Collaborate**  
-I’m always up for discussing DevOps trends, contributing to open-source, or solving complex infrastructure problems.  
-🔗 [**LinkedIn**](https://www.linkedin.com/in/akshays-siv/) | 🌐 [**Blog**](https://akskhaysiv.hashnode.dev/)
 
