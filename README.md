@@ -6,7 +6,7 @@ Crafting scalable, automated, and secure infrastructure solutions across cloud-n
 ---
 
 ## 👨‍💻 **Featured Projects**  
-Explore my open-source and professional work:  
+Discover my technical work and hands-on demos:
 🔗[**GitHub Portfolio**](https://github.com/AkshaySiv?tab=repositories)
 
 ---
