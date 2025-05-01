@@ -5,12 +5,6 @@ Crafting scalable, automated, and secure infrastructure solutions across cloud-n
 
 ---
 
-## 📄 **Resume**  
-Want to know more about my experience and skills in detail?  
-📥 [**Download My Resume (PDF)**](AkshaySiv_DevOps.pdf)
-
----
-
 ## 👨‍💻 **Featured Projects**  
 Discover my technical work and hands-on demos:
 🔗[**GitHub Portfolio**](https://github.com/AkshaySiv?tab=repositories)
@@ -21,6 +15,13 @@ Discover my technical work and hands-on demos:
 I love sharing insights on DevOps best practices, automation, and cloud-native tools.  
 📰 Read my latest posts on:  
 🔗 [**akshaysiv.hashnode.dev**](https://hashnode.com/@akshaysiv)
+
+---
+
+## 📄 **Resume**  
+Want to know more about my experience and skills in detail?  
+📥 [**Download My Resume (PDF)**](AkshaySiv_DevOps.pdf)
+
 
 ---
 
